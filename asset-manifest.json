@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/virtual-bank-website/static/js/main.257d84c3.js",
+    "static/media/dataVideo.mp4": "/virtual-bank-website/static/media/dataVideo.d48e218167a19525e9ae.mp4",
+    "static/media/svg-1.svg": "/virtual-bank-website/static/media/svg-1.4943108d9563b3ba28f9c0e934ce881a.svg",
+    "static/media/svg-3.svg": "/virtual-bank-website/static/media/svg-3.a5286464f9eb5847e5aec00303d662de.svg",
+    "static/media/svg-4.svg": "/virtual-bank-website/static/media/svg-4.7efc4f250262e4b2f193a068f45b17ad.svg",
+    "static/media/svg-2.svg": "/virtual-bank-website/static/media/svg-2.93c40c42f7094aad53e105ce31787e2a.svg",
+    "index.html": "/virtual-bank-website/index.html",
+    "main.257d84c3.js.map": "/virtual-bank-website/static/js/main.257d84c3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.257d84c3.js"
+  ]
+}
