@@ -49,7 +49,7 @@ function Hero() {
             duration={500}
             spy
             exact="true"
-            offset={-80}
+            offset={0}
           >
             Get Started { hover ? <ArrowForward /> : <ArrowRight /> }
           </Button>
